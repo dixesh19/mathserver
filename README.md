@@ -161,7 +161,7 @@ urlpatterns = [
 
 ```
 # SERVER SIDE PROCESSING:
-![Screenshot 2024-12-07 213530](https://github.com/user-attachments/assets/0805a612-43cc-4c64-b3fd-3e5c48365ab6)
+![Screenshot (69)](https://github.com/user-attachments/assets/68ce968d-c681-4255-a167-042877531cee)
 
 # HOMEPAGE:
 ![Screenshot (68)](https://github.com/user-attachments/assets/3eb41e24-06b3-4d57-8f81-2933deb9511c)
