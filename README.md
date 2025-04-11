@@ -1,5 +1,5 @@
 # Ex.05 Design a Website for Server Side Processing
-# Date:26.11.24
+# Date:11/04/2025
 # AIM:
 To design a website to calculate the power of a lamp filament in an incandescent bulb in the server side.
 
@@ -113,8 +113,9 @@ math.html
 </html>
 
 ```
-```
+
 Views.py
+```
 from django.shortcuts import render
 
 def power_calculate(request):
@@ -145,8 +146,9 @@ def power_calculate(request):
     return render(request, 'mathapp/math.html', context)
 
 ```
-```
+
 urls.py
+```
 from django.contrib import admin
 from django.urls import path
 from mathapp import views
